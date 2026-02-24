@@ -1,3 +1,1 @@
-
-
-Tady bude konfliktní řádek
+nieco nieco
