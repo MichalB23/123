@@ -5,4 +5,4 @@ Treti řádek
 Ctvrtý řádek
 
 
-Priprava na konflikt
+Tady bude konfliktní řádek
