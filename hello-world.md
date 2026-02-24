@@ -4,3 +4,5 @@ Další řádek
 Třetí řádek
 Tady bude konfliktní řádek
 nieco nieco
+
+daco daco
